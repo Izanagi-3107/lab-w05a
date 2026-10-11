@@ -1,3 +1,7 @@
+/*
+ * Mã sinh viên: 202418984
+ * Họ tên: Ngô Ngọc Thái
+ */
 #include "Device.h"
 
 #include <cmath>
