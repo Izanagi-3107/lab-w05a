@@ -1,3 +1,7 @@
+/*
+ * Mã sinh viên: 202418984
+ * Họ tên: Ngô Ngọc Thái
+ */
 #ifndef PROJECTOR_H
 #define PROJECTOR_H
 
