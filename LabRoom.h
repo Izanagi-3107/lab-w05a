@@ -1,3 +1,8 @@
+/*
+ * Mã sinh viên: 202418984
+ * Họ tên: Ngô Ngọc Thái
+ */
+
 #ifndef LAB_ROOM_H
 #define LAB_ROOM_H
 
